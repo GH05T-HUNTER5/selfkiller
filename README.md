@@ -16,17 +16,11 @@ $ `termux-setup-storage`
 
 ## Commands
 
-```
-git clone https://github.com/GH05T-HUNTER5/selfkiller
-```
+$ `git clone https://github.com/GH05T-HUNTER5/selfkiller`
 
-```
-cd selfkiller
-```
+$ `cd selfkiller`
 
-```
-bash selfkiller.sh
-```
+$ `bash selfkiller.sh`
 
 ## Tool 
 
