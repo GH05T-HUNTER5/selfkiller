@@ -10,8 +10,11 @@
 
 * No internet required
 #### Termux App
+$ `termux-setup-storage`
 
 * storage permit is required {termux-setup-storage}
+
+## Commands
 
 ```
 git clone https://github.com/GH05T-HUNTER5/selfkiller
