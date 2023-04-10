@@ -24,3 +24,7 @@ cd selfkiller
 ```
 bash selfkiller.sh
 ```
+
+## Tool 
+
+* This tool is a fully automatic tool that helps you create powerful viruses
