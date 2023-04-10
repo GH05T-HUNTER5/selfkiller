@@ -28,3 +28,4 @@ bash selfkiller.sh
 ## Tool 
 
 * This tool is a fully automatic tool that helps you create powerful viruses
+* This tool works on both rooted Android device and Non-rooted Android device
