@@ -7,3 +7,15 @@ You can easily create virus apk (Undetectable apk virus included)
 * Termux App
 * Parrot os
 * Kali Linux 
+
+```
+git clone https://github.com/GH05T-HUNTER5/selfkiller
+```
+
+```
+cd selfkiller
+```
+
+```
+bash selfkiller.sh
+```
