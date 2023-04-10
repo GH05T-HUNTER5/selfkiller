@@ -29,3 +29,9 @@ bash selfkiller.sh
 
 * This tool is a fully automatic tool that helps you create powerful viruses
 * This tool works on both rooted Android device and Non-rooted Android device
+
+Disclaimer
+
+```
+                                                                                          The use of the selfkiller is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program.
+```
