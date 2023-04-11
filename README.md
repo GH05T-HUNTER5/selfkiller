@@ -1,7 +1,5 @@
 <img src="https://l.top4top.io/p_2656q9nit0.jpg" alt="selfkiller logo">
-<i>You can create a powerful virus with it, many antiviruses will not detect it, your target phone will be destroyed quickly, it is a very useful tool, use it as soon as possible.</i>
 
-<i>With it you can delete many important files, change wallpaper and play background music.  This tool has many uses.</i>
 ## AVAILABLE ON :
 
 * Termux App
@@ -32,6 +30,7 @@ $ `bash selfkiller.sh`
 
 * This tool is a fully automatic tool that helps you create powerful viruses
 * This tool works on both rooted Android device and Non-rooted Android device
+* Mobile malware is malicious software that targets mobile phones or wireless-enabled Personal digital assistants, by causing the collapse of the system and loss or leakage of confidential information.
 
 Disclaimer
 
