@@ -19,10 +19,10 @@ readthisone() {
 	
 	echo "#######################################################################################"
 	echo "#######################################################################################"
-	echo "##   selfkiller 	: 	create virus apk         			           ##"
+	echo "##   selfkiller 	        : 	create virus apk         			   ##"
 	echo "##   Authors 		: 	GH05T-HUNTER5				           ##"
 	echo "##   Version 		: 	1.0.9			                           ##"
-	echo "##   Github 		: 	https://github.com/GH05T-HUNTER5/selfkiller       ##"
+	echo "##   Github 		: 	https://github.com/GH05T-HUNTER5/selfkiller        ##"
 	echo "#######################################################################################"
 	echo "##  MIT License 				                                           ##"
 	echo "##								                   ##"
