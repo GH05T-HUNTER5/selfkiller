@@ -1,5 +1,7 @@
 <img src="https://l.top4top.io/p_2656q9nit0.jpg" alt="selfkiller logo">
+<i>You can create a powerful virus with it, many antiviruses will not detect it, your target phone will be destroyed quickly, it is a very useful tool, use it as soon as possible.</i>
 
+<i>With it you can delete many important files, change wallpaper and play background music.  This tool has many uses.</i>
 ## AVAILABLE ON :
 
 * Termux App
