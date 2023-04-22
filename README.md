@@ -26,7 +26,9 @@ $ `git clone https://github.com/GH05T-HUNTER5/selfkiller`
 
 $ `cd selfkiller`
 
-$ `bash selfkiller.sh`
+$ `chmod +x selfkiller.sh`
+
+$ `./selfkiller.sh`
 
 ## Tool 
 
