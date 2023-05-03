@@ -28,7 +28,9 @@ $ `cd selfkiller`
 
 $ `chmod +x selfkiller.sh`
 
-$ `./selfkiller.sh`
+$ `bash selfkiller.sh`
+
+$ `bash move.sh`
 
 ## Tool 
 
