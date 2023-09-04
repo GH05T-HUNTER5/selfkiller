@@ -30,4 +30,41 @@ sub main_banner {
     print color('cyan') . "+---------------------------------------------+\n" . color('reset');
 }
 
-main_banner();
+sub main_menu {
+    main_banner();
+    print("[01] Create Xxx Virus apk {Virus apk}\n");
+    print("[02] Create fake antivirus {Virus apk}\n");
+    print("[03] HellBoy apk virus {Virus apk}\n");
+    print("[04] Elite apk virus {Virus apk}\n");
+    print("[05] Create fake antivirus {Virus Link}\n");
+    print("[06] Create birthday Virus apk {Virus Link}\n");
+    print("[07] Create Game Virus {Virus Link}\n");
+    print("[00] Exit\n");
+    print("Choose an option: ");
+    my $option = <STDIN>;
+    chomp($option);
+
+    if ($option eq '') {
+        main_menu();
+    } elsif ($option eq "05" || $option eq "5") {
+        my $app_link = "secure-game";
+        short_link();
+    } elsif ($option eq "06" || $option eq "6") {
+        my $app_link = "secure-game";
+        short_link();
+    } elsif ($option eq "07" || $option eq "7") {
+        my $app_link = "secure-game";
+        short_link();
+    }
+}
+
+sub main_banner {
+
+}
+
+sub short_link {
+
+}
+
+main_menu();
+
