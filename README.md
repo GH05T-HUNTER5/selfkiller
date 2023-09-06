@@ -1,47 +1,62 @@
-<!--<img 
+# Selfkiller - Powerful Mobile Malware Toolkit
 
-src="https://l.top4top.io/p_2656q9nit0.jpg" alt="selfkiller logo">
-<p><b>You can create a powerful virus with it, many antiviruses will not detect it, your target phone will be destroyed quickly, it is a very useful tool, use it as soon as possible.<br />
-With it you can delete many important files, change wallpaper and play background music. This tool has many uses.</b></p>
+![Selfkiller Logo](https://l.top4top.io/p_2656q9nit0.jpg)
 
-## AVAILABLE ON :
+## Introduction
 
-* Termux App
-* Parrot os
-* Kali Linux 
+Selfkiller is a comprehensive mobile malware toolkit that allows users to create powerful viruses with stealth capabilities. Please note that this toolkit is intended for educational and research purposes only. The use of malicious software is illegal and unethical. 
+
+## Features
+
+- **Stealthy Operation**: Many antivirus programs may not detect the viruses created using Selfkiller, making it a potent tool for testing security measures.
+- **Diverse Functions**: Selfkiller allows you to delete important files, change wallpaper, and play background music on the target device, demonstrating the range of malicious actions that can be performed.
+
+## Supported Platforms
+
+Selfkiller is compatible with the following platforms:
+
+- [Termux App](https://termux.com)
+- [Parrot OS](https://www.parrotsec.org)
+- [Kali Linux](https://www.kali.org)
 
 ## Requirements
 
-* No internet required
-#### Termux App
-$ `termux-setup-storage`
+### Termux App
 
-* storage permit is required {termux-setup-storage}
+In Termux, grant storage permissions using the following command:
 
-## Tool Overview
-
-<img src="https://k.top4top.io/p_26561swt20.jpg" alt="tool overview" width="60%">
+```shell
+termux-setup-storage
+```
 
 ## Getting Started
 
-$ `git clone https://github.com/GH05T-HUNTER5/selfkiller`
+<i>To begin using Selfkiller, follow these steps:</i>
 
-$ `cd selfkiller`
-
-$ `chmod +x selfkiller.sh`
-
-$ `bash selfkiller.sh`
-
-$ `bash move.sh`
-
-## Tool 
-
-* This tool is a fully automatic tool that helps you create powerful viruses
-* This tool works on both rooted Android device and Non-rooted Android device
-* Mobile malware is malicious software that targets mobile phones or wireless-enabled Personal digital assistants, by causing the collapse of the system and loss or leakage of confidential information.
-
-Disclaimer
+### INSTALLATION
 
 ```
-                                                                                          The use of the selfkiller is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program.
-```-->
+git clone https://github.com/GH05T-HUNTER5/selfkiller
+```
+
+```
+cd selfkiller
+```
+
+```
+chmod +x selfkiller.sh
+```
+
+```
+./selfkiller.sh
+```
+
+## Important Note
+
+<i>This toolkit is for educational and research purposes only. The use of Selfkiller for malicious activities is strictly prohibited and illegal. The developers assume no liability for any misuse or damage caused by this program.</i>
+
+## Disclaimer
+
+The use of Selfkiller is the complete responsibility of the end-user. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
+
+
