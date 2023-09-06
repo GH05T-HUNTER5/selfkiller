@@ -44,11 +44,21 @@ cd selfkiller
 ```
 
 ```
-chmod +x selfkiller.sh
+chmod +x selfkiller
 ```
 
 ```
-./selfkiller.sh
+python3 install.py
+```
+
+```
+selfkiller
+```
+
+Or 
+
+```
+./selfkiller
 ```
 
 ## Important Note
